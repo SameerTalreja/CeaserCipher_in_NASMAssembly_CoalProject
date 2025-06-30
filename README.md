@@ -1,6 +1,6 @@
 # 🔐 Caesar Cipher in NASM x86 Assembly
 
-> A low-level implementation of one of the oldest ciphers in cryptography, developed as a semester project for **CS-235: Computer Organization and Assembly Language (COAL)** under **Engr. Muhammad Abid Hussain** at **NUST Balochistan Campus (NBC), Quetta**.
+> A low-level implementation of one of the oldest ciphers in cryptography, developed as a semester project for **CS-235: Computer Organization and Assembly Language (COAL)** 
 
 ---
 
